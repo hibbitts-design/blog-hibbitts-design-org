@@ -2,7 +2,7 @@
 title: 'Accessibility and the Grav Open Course Hub Project'
 date: 10/23/2018
 hide_from_post_list: false
-continue_link: false
+continue_link: true
 header_image: false
 metadata:
     'twitter:card': summary
