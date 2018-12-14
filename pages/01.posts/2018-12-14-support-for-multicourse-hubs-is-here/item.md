@@ -9,7 +9,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Support for MultiCourse Hubs is Here'
     'twitter:description': 'The ability to have multiple courses within a single Grav Open Course Hub is now available.'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-12-14-support-for-multiple-course-hubs-is-here/admin-panel-multtiple-courses.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2018-12-14-support-for-multicourse-hubs-is-here/admin-panel-multiple-courses.png'
 taxonomy:
     category: blog
     tag:
@@ -19,7 +19,7 @@ taxonomy:
 
 Based on discussions with two educators (thanks Colin and Brian), the ability for multiple courses to be included within a single Grav Open Course Hub is now supported!
 
-![Multiple courses within a single Grav install](admin-panel-multtiple-courses.png)  
+![Multiple courses within a single Grav install](admin-panel-multiple-courses.png)  
 Figure 1 - Multiple courses within a single Grav install.
 
 ===
