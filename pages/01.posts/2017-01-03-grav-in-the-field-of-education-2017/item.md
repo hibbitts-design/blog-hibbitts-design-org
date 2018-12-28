@@ -15,6 +15,7 @@ taxonomy:
         - Open
         - Open
         - OER
+        - YearEndReview
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
