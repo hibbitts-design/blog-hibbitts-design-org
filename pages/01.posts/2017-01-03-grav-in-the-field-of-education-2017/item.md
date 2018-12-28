@@ -1,5 +1,5 @@
 ---
-title: "Grav in the Field of Education: 2017 Outlook"
+title: "Grav in the Field of Education: 2017 Outlook🔭"
 date: 01/03/2017
 published: true
 continue_link: true
