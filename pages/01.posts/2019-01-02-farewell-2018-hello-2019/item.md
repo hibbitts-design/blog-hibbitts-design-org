@@ -8,7 +8,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Farewell 2018, Hello 2019!'
     'twitter:description': 'The start of the new year holds a lot of promise for both Grav and my Grav-based open education projects'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-01-02-farewell-2018-hello-2019/admin-panel-multiple-courses'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-01-02-farewell-2018-hello-2019/admin-panel-multiple-courses.png'
 taxonomy:
     category: blog
     tag:
