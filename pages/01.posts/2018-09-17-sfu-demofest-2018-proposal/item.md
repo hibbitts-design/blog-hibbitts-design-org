@@ -17,6 +17,7 @@ taxonomy:
         - CanvasLMS
         - LMS
         - Integration
+        - Proposal
 ---
 
 [SFU's](https://www.sfu.ca/) fourth annual DEMOfest is scheduled for Wed, November 21st and I hope to share with my fellow educators how the Grav CMS can be used to expand and enhance Canvas - here's my submitted proposal:  
