@@ -1,13 +1,13 @@
 ---
-title: 'Cascadia Open Education Summit Proposals'
+title: '2019 Cascadia Open Education Summit Proposals'
 date: 01/10/2019
 continue_link: true
 header_image: false
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
-    'twitter:title': 'Cascadia Open Education Summit Proposals'
-    'twitter:description': 'My two proposals for the 2019 Cascadia Open Education Summit'
+    'twitter:title': '2019 Cascadia Open Education Summit Proposals'
+    'twitter:description': 'My two proposals for the Cascadia Open Education Summit in Vancouver, Canada'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-01-10-cascadia-open-education-summit-proposals/markdown-git-workflow.png'
 taxonomy:
     category: blog
