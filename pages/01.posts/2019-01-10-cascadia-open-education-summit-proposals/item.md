@@ -19,7 +19,7 @@ taxonomy:
         - Proposal
 ---
 
-I've decided to throw my hat in the ring for the Cascadia Open Education Summit with two proposals, with both touching upon using Markdown, Git and the file-based Grav CMS for creating and delivering open educational resources (OER).
+Throwing caution to the wind I've decided to submit two proposals for the [Cascadia Open Education Summit](https://bccampus.ca/event/cascadia-open-education-summit/), with both touching upon using Markdown, Git and the file-based Grav CMS for creating and delivering open educational resources (OER).
 
 ===
 
