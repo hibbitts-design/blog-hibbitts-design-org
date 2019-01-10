@@ -7,7 +7,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': '2019 Cascadia Open Education Summit Proposals'
-    'twitter:description': 'My two proposals for the Cascadia Open Education Summit in Vancouver, Canada'
+    'twitter:description': 'My two proposals for the Cascadia Open Education Summit in Vancouver, B.C. on April 17 and 18, 2019'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-01-10-cascadia-open-education-summit-proposals/markdown-git-workflow.png'
 taxonomy:
     category: blog
