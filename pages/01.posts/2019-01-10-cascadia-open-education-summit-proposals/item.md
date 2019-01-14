@@ -57,3 +57,6 @@ Tech-savvy educators and authors - want to support more open and collaborative m
 Tech-savvy educators and authors - want to support more open and collaborative materials, inside or outside of other systems? Are you looking for a more flexible workflow and environment than what traditional CMSs like WordPress provides? Faced with these challenges, Paul Hibbitts developed a set of open source components for the file-based Grav CMS ([getgrav.org](https:getgrav,org)) to work with his CMPT-363 Canvas course (https://canvas.sfu.ca/courses/38847).
 
 The modern CMS Grav uses the platform-independent Markdown format and enables collaborative editing with Git-based services such as GitHub and GitLab. These also naturally support the 5 Rs (Retain, Reuse, Revise, Remix and Redistribute) of Open Educational Resources. Integrating Grav pages within other systems (e.g. LMSs) is seamless too - without any content restrictions. In this session, Paul will highlight various open education-related projects (including Open Course Hub, Open Blogging Space, Collaborative Online Documentation and the Hypothes.is Plugin) and invite attendees to share their own experiences and needs.
+
+![Grav CMS with Git Sync Workflow](grav-cms-git-sync-workflow.png)  
+_Figure 2. Grav CMS with Git Sync Workflow._
