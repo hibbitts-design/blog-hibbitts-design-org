@@ -58,5 +58,5 @@ Tech-savvy educators and authors - want to support more open and collaborative m
 
 The modern CMS Grav uses the platform-independent Markdown format and enables collaborative editing with Git-based services such as GitHub and GitLab. These also naturally support the 5 Rs (Retain, Reuse, Revise, Remix and Redistribute) of Open Educational Resources. Integrating Grav pages within other systems (e.g. LMSs) is seamless too - without any content restrictions. In this session, Paul will highlight various open education-related projects (including the Open Course Hub, Open Blogging Space, the Hypothes.is Plugin and more!) and invite attendees to share their own experiences and needs.
 
-![Grav CMS with Git Sync Workflow](grav-cms-git-sync-workflow.png)  
-_Figure 2. Grav CMS with Git Sync Workflow._
+![Grav CMS with Markdown Git Workflow](grav-cms-markdown-git-workflow.png)  
+_Figure 2. Grav CMS with Markdown Git Workflow._
