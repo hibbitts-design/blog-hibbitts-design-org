@@ -27,7 +27,7 @@ Throwing caution to the wind I've decided to submit two proposals for the [Casca
 ##### Technology in Designing and Delivering OER Track
 
 **Abstract**  
-The Markdown format (a simpler way to style content compared to HTML) continues to see wider support and usage. Partnered with the open source version-control software Git (the software behind GitHub, GitLab etc.) and a range of apps it can offer educators a future-friendly and collaborative format for open content.
+The Markdown format (a simpler way to format and structure content compared to HTML) continues to see wider support and usage. When partnered with the version-control software Git (the software behind GitHub, GitLab etc.) and other apps it can offer tech-savvy educators a future-friendly and collaborative format for open content.
 
 **Session Objectives**  
 * Identify Markdown, Git, and a Git Workflow
@@ -60,3 +60,7 @@ The modern CMS Grav uses the platform-independent Markdown format and enables co
 
 ![Grav CMS with Markdown Git Workflow](grav-cms-markdown-git-workflow.png)  
 _Figure 2. Grav CMS with Markdown Git Workflow._
+
+**Bio**  
+Bio
+Combining his professional interaction design skill set with his extensive instructional background, Paul thrives on the challenges of design for learning and experience in our multi-device connected world. In 2016 he published his first open source project, Open Course Hub, to help fellow educators ‘flip’ or partner their institutional LMS with the Web platform Grav to shift control back to the hands of course facilitators and participants. You can learn more about Paul’s open [source] education projects with Grav at hibbittsdesign.org.
