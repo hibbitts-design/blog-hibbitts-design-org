@@ -27,7 +27,7 @@ Throwing caution to the wind I've decided to submit two proposals for the [Casca
 ##### Technology in Designing and Delivering OER Track
 
 **Abstract**  
-The Markdown format (a simpler way to format and structure content compared to HTML) continues to see wider support and usage. When partnered with the version-control software Git (the software behind GitHub, GitLab etc.) and other apps it can offer tech-savvy educators a future-friendly and collaborative format for open content.
+The Markdown format (a simpler way to format and structure content compared to HTML) continues to see wider support and usage. When partnered with the version-control software Git (the software behind GitHub, GitLab etc.) and other apps it can offer tech-literate educators a future-friendly and collaborative format for open content.
 
 **Session Objectives**  
 * Identify Markdown, Git, and a Git Workflow
