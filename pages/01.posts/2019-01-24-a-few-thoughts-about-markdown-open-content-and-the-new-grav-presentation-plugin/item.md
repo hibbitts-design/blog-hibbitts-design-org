@@ -16,7 +16,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... Markdown and Open Content
     'twitter:description' : A bit about my experience of using Markdown, open content, and the release of the new Grav Presentation Plug.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-01-24-a-few-thoughts-about-markdown-and-open-content/markdown-git-workflow.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-01-24-a-few-thoughts-about-markdown-open-content-and-the-new-grav-presentation-plugin/markdown-git-workflow.png'
 ---
 
 _Recently I tweeted some of my thoughts about Markdown, open content, and the release of the new Grav Presentation Plug, and I thought I would share them here:_
