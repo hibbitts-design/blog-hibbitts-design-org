@@ -23,7 +23,7 @@ _Recently I tweeted some of my thoughts about Markdown, open content, and the re
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">While not a &#39;silver bullet&#39; for all open content/<a href="https://twitter.com/hashtag/OER?src=hash&amp;ref_src=twsrc%5Etfw">#OER</a> scenarios, in my experience Markdown supports truly open (think of the 5Rs) and collaborative materials (when used with Git-based Web services like GitLab/GitHub/etc.) while also enabling a more streamlined workflow. [1/4]</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1088136460530679808?ref_src=twsrc%5Etfw">January 23, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<br>
 
 ===
 
