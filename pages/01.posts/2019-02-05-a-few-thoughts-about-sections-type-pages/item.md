@@ -17,7 +17,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... Sections-type Pages in Open Publishing Space and Open Course Hub
     'twitter:description' : An overview of Sections pages, designed to support a large amount of Markdown-based content in a Grav site.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-02-05-a-few-thoughts-about-sections-type-pages/section.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-02-05-a-few-thoughts-about-sections-type-pages/sections.png'
 ---
 
 _Recently I tweeted some recent improvements to Sections-type pages, designed to support a large amount of Markdown-based content within a Grav site, and I thought I would share them here:_
