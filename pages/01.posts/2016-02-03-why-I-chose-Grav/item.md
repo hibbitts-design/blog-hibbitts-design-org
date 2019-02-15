@@ -43,9 +43,9 @@ _Some key benefits of flat-file CMSs, especially for educators:_
 * Increased portability, as moving a site now only requires simply copying files to another location
 * Takes full advantage of the collaborative ecosystem now available (i.e. GitHub, GitLab, etc.)
 
-Once I decided that a flat-file CMS was the best fit for my needs, then OctoberCMS, [CraftCMS](https://craftcms.com/), and Bolt were all eliminated from the running. I also wanted to use an open source platform, so that then removed Statamic from the running.
+Once I decided that a flat-file CMS was the best fit for my needs, then OctoberCMS, [CraftCMS](https://craftcms.com/), and Bolt were all eliminated from the running. I also wanted to use an open source platform, so that then removed Statamic 1.0 from the running.
 
-So why did I choose [RocketTheme's](http://www.rockettheme.com/) [Grav](https://getgrav.org/) over Kirby given my initial analysis? After a bit of thought, I would say the main reasons were:
+So why did I choose [RocketTheme's](http://www.rockettheme.com/) [Grav](https://getgrav.org/) over Kirby 2.0 given my initial analysis? After a bit of thought, I would say the main reasons were:
 
 * Excellent conceptual/design model
 * Markdown/Twig/YAML usage
