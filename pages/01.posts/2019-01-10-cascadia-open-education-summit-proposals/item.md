@@ -21,6 +21,8 @@ taxonomy:
 
 Throwing caution to the wind I've decided to submit two proposals for the [Cascadia Open Education Summit](https://bccampus.ca/event/cascadia-open-education-summit/) in Vancouver, B.C. on April 17 and 18, with both involving the use of Markdown, Git and the file-based Grav CMS for creating and delivering open educational resources (OER).
 
+UPDATE: While these proposals were not accepted this year I would be more than happy to meet with any interested educators about the above topics while they are in Vancouver April 17th and 18th.
+
 ===
 
 #### Proposal #1: Using Markdown and Git Workflow for Open Courses and Resources
