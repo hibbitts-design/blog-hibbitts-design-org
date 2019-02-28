@@ -16,7 +16,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... the Grav Presentation Plugin
     'twitter:description' : More details about the Presentation Plugin which supports Markdown-based slides in Grav.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-02-26-a-few-thoughts-about-the-presentation-plugin/presentation.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-03-01-a-few-thoughts-about-the-presentation-plugin/presentation.png'
 ---
 
 _Recently I tweeted some details about the new [Presentation Plugin by Ole Vik](https://github.com/OleVik/grav-plugin-presentation) for the Grav CMS, and I thought I would share them here:_
