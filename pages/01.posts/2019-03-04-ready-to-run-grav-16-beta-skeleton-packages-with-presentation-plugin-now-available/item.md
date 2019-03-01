@@ -26,4 +26,6 @@ With Grav 1.6 getting closer and closer to release, it seems like the good time 
 * Grav Open MultiCourse Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-multicourse-hub-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases))
 * Grav Open Publishing Space Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-publishing-space-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases))
 
+Oh, and speaking of GitHub, at the start of 2019 the [Grav CMS](https://github.com/getgrav/grav) hit the significant milestone of 10,000 GitHub ⭐️s
+
 ===
