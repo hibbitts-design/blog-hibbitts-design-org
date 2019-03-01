@@ -22,8 +22,8 @@ metadata:
 
 With Grav 1.6 getting closer and closer to release, it seems like the good time to release a set of Beta skeleton packages for Open Course Hub and Open Publishing Space with enhanced support of the new [Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation) to explore and test, so let's get to it!
 
-* Grav Open Course Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-course-hub-site-beta/) | [Download](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/download/v2.8.2/grav-skeleton-open-matter-course-hub-site-beta.zip))
-* Grav Open MultiCourse Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-multicourse-hub-site-beta/) | [Download](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/download/v2.8.2/grav-skeleton-open-matter-multicourse-hub-site-beta.zip))
-* Grav Open Publishing Space Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-publishing-space-site-beta/) | [Download](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases/download/v1.3.9/grav-skeleton-open-publishing-space-site-beta.zip))
+* Grav Open Course Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-course-hub-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases))
+* Grav Open MultiCourse Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-multicourse-hub-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases))
+* Grav Open Publishing Space Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-publishing-space-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases))
 
 ===
