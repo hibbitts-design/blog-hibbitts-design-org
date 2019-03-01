@@ -1,0 +1,29 @@
+---
+title: "Ready-to-run Grav 1.6 Beta Skeleton Packages with Presentation Plugin now Available🚀"
+date: 03/04/2019
+published: true
+continue_link: false
+header_image: true
+hero_classes: 'overlay-dark-gradient text-light'
+hero_image: sharegrid-474930-unsplash.jpg
+header_image_credit: 'ShareGrid on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/AvV5rJl1vcU'
+taxonomy:
+    category: blog
+    tag:
+        - Beta
+metadata:
+    'twitter:card' : summary
+    'twitter:site' : @hibbittsdesign
+    'twitter:title' : Ready-to-run Grav 1.6 Beta Skeleton Packages now Available
+    'twitter:description' : Explore Grav 1.6 and the enhanced support of the Presentation Plugin in new Open Course Hub and Open Publishing Space skeleton packages (PHP 7.1.3 or greater required).
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-03-04-ready-to-run-grav-16-beta-skeleton-packages-with-presentation-plugin-now-available/sharegrid-474930-unsplash.jpg'
+---
+
+With Grav 1.6 getting closer and closer to release, it seems like the good time to release a set of Beta skeleton packages for Open Course Hub and Open Publishing Space with enhanced support of the new [Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation) to explore and test, so let's get to it!
+
+* Grav Open Course Hub Beta ([Download](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/download/v2.8.2/grav-skeleton-open-matter-course-hub-site-beta.zip) | [Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-course-hub-site-beta/))
+* Grav Open MultiCourse Hub Beta ([Download](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/download/v2.8.2/grav-skeleton-open-matter-multicourse-hub-site-beta.zip) | [Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-multicourse-hub-site-beta/))
+* Grav Open Publishing Space Beta ([Download](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases/download/v1.3.9/grav-skeleton-open-publishing-space-site-beta.zip) | [Demo](http://test.hibbittsdesign.org/grav-skeleton-open-publishing-space-site-beta/))
+
+===
