@@ -29,8 +29,8 @@ Figure 1 - Presentation Plugin - Editing a Presentation
 ![Presentation Plugin - Previewing a Presentation](images/presentation-2.png)  
 Figure 2 - Presentation Plugin - Previewing a Presentation
 
-![Presentation Plugin - Presenting a Presentation](images/presentation-3.png)  
-Figure 3 - Presentation Plugin - Presenting a Presentation
+[presentation="posts/2019-03-04-ready-to-run-grav-16-beta-skeleton-packages-with-presentation-plugin-now-available/presentation/placeholder-slide"]
+Figure 3 - Embedded Presentation
 
 * Grav Open Course Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-course-hub-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases))
 * Grav Open MultiCourse Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-multicourse-hub-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases))
