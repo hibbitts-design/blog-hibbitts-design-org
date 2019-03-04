@@ -26,8 +26,8 @@ With Grav 1.6 getting closer and closer to release, it seems like the good time 
 ![Presentation Plugin - Editing a Presentation](images/presentation-1.png)  
 Figure 1 - Presentation Plugin - Editing a Presentation  
 
-![Presentation Plugin - Displaying a Presentation](images/presentation-2.png)  
-Figure 2 - Presentation Plugin - Displaying a Presentation
+![Presentation Plugin - Previewing a Presentation](images/presentation-2.png)  
+Figure 2 - Presentation Plugin - Previewing a Presentation
 
 * Grav Open Course Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-course-hub-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases))
 * Grav Open MultiCourse Hub Beta ([Demo](http://test.hibbittsdesign.org/grav-skeleton-open-matter-multicourse-hub-site-beta/) | [Download via GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases))
