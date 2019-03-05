@@ -2,7 +2,7 @@
 title: "Ready-to-run Grav 1.6 Beta Skeleton Packages with Presentation Plugin now Available🚀"
 date: 03/04/2019
 published: true
-continue_link: false
+continue_link: true
 header_image: true
 header_image_file: sharegrid-474930-unsplash.jpg
 hero_classes: 'overlay-dark-gradient text-light'
@@ -25,6 +25,8 @@ With Grav 1.6 getting closer and closer to release, it seems like the good time 
 
 ![Presentation Plugin - Editing a Presentation](images/presentation-1.png)  
 Figure 1 - Presentation Plugin - Editing a Presentation  
+
+===
 
 ![Presentation Plugin - Previewing a Presentation](images/presentation-2.png)  
 Figure 2 - Presentation Plugin - Previewing a Presentation
