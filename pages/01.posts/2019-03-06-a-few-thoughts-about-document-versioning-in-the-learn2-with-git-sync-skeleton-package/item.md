@@ -15,7 +15,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' :  Few Thoughts About... Document Versioning in the Learn2 with Git Sync Skeleton Package
-    'twitter:description' : A look at the document versioning support recently added to  the Learn2 with Git Sync skeleton package.
+    'twitter:description' : A look at the document versioning support recently added to the Learn2 with Git Sync skeleton package.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-03-06-a-few-thoughts-about-document-versioning-in-the-learn2-with-git-sync-skeleton-package/screenshot.png'
 ---
 
