@@ -17,7 +17,7 @@ presentation:
 [.header: alignment(center)]
 [.text: alignment(center)]
 
-# CMPT 363
+# CPT 363
 
 ### Slides Placeholder
 
