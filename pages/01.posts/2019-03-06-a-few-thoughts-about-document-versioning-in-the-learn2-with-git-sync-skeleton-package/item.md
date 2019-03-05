@@ -7,16 +7,16 @@ header_image: false
 taxonomy:
     category: blog
     tag:
-        - Open
         - Git
         - GitSync
         - Markdown
+        - DocumentVersioning
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : A Few Thoughts About... the Grav Presentation Plugin
-    'twitter:description' : More details about the Presentation Plugin which supports Markdown-based slides in Grav.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-03-01-a-few-thoughts-about-the-presentation-plugin/presentation.png'
+    'twitter:title' : Few Thoughts About... Document Versioning in the Learn2 with Git Sync Skeleton Package
+    'twitter:description' : A look at the document versioning support recently added to the Learn2 with Git Sync skeleton package.
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-03-06-a-few-thoughts-about-document-versioning-in-the-learn2-with-git-sync-skeleton-package/screenshot.png'
 ---
 
 _Recently I tweeted the addition of document versioning for the Learn2 with Git Sync skeleton package (which leverages Grav's [Multi-language](https://learn.getgrav.org/15/content/multi-language) feature), and I thought I would share it here:_
