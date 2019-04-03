@@ -1,6 +1,6 @@
 ---
 title: 'Introducing Grav Course Hub for Mac'
-published: false
+published: true
 date: 07/29/2016
 continue_link: false
 header_image: false
