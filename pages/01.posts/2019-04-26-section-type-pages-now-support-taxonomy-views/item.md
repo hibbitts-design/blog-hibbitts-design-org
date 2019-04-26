@@ -1,6 +1,6 @@
 ---
 title: "Grav Open Course Hub and Open Publishing Space now Support Taxonomy Filters for Section-type Pages."
-date: 04/23/2019
+date: 04/26/2019
 published: true
 continue_link: false
 header_image: false
