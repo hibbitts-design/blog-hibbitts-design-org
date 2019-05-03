@@ -11,6 +11,7 @@ taxonomy:
         - Git
         - GitSync
         - Markdown
+        - Presentation
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
