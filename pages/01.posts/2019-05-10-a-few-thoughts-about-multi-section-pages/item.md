@@ -15,7 +15,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Few Thoughts About... Multi-section Pages
     'twitter:description' : A brief tour of what multi-section pages can do, inside or outside of another platform.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-05-09-a-few-thoughts-about-multi-section-pages/multi-section.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-05-10-a-few-thoughts-about-multi-section-pages/multi-section.png'
 ---
 
 _Recently I tweeted about what can be done with multi-section pages in the Open Course Hub and Open Publishing Space, and I thought I would share them here:_
