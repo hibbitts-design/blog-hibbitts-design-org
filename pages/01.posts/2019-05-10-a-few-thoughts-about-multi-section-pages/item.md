@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About... Multi-section Pages"
+title: "A Few Thoughts About... Multi-section Pages in the Grav Open Course Hub and Open Publishing Space"
 date: 05/06/2019
 published: true
 continue_link: true
