@@ -8,6 +8,7 @@ taxonomy:
     category: blog
     tag:
         - Sections
+        - MultiSection
         - Taxonomy
 metadata:
     'twitter:card' : summary
