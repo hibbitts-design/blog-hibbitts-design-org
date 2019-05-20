@@ -1,7 +1,7 @@
 ---
 title: Hibbitts Design Blog
 menu: Blog
-hide_git_sync_repo_link: true
+hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent header-image fullwidth'
 hero_classes: 'text-light title-h1h3 overlay-dark-gradient hero-large'
 blog_url: posts
