@@ -27,5 +27,5 @@ pagination: true
 hero_scroll: true
 ---
 
-# Exploring and Building Open [Source] Software for Learning Ecosystems and OER
+# Exploring and Building Open [Source] Software for Tech-savvy Educators and OER Publishers
 ### EXPERIENCE DESIGN / EDUCATION / OER/ MULTI-DEVICE / GRAV CMS
