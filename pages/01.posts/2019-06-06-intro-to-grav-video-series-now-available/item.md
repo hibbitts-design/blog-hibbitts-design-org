@@ -16,7 +16,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-06-intro-to-grav-video-series-now-available/youtube-playlist.png'
 ---
 
-The Intro to Grav Video Series is a collection of tutorial-style videos that cover a range of topics, from installing Grav to editing pages to using the amazing Git Sync Plugin.
+The [Intro to Grav Video Series](https://www.youtube.com/playlist?list=PLk2Bz5X36nXBSZqb9w8x-BmxkaJwCDJkc) is a collection of tutorial-style videos that cover a range of topics, from installing Grav to editing pages to using the amazing Git Sync Plugin.
 
 ![YouTube Playlist](youtube-playlist.png)  
 Figure 1 - YouTube Playlist
