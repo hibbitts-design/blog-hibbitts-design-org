@@ -29,5 +29,5 @@ Content can also be shared within a single course and as well between courses.
 ![MultiCourse Hub with Groups Course List](multicoursegroups-courselist.png)  
 Figure 2 - MultiCourse Hub with Groups Course List
 
-![MultiCourse Hub with Group in GitHub Repository](multicoursegroups-github.png)  
-Figure 3 - MultiCourse Hub with Group in GitHub Repository
+![MultiCourse Hub with Groups in GitHub Repository](multicoursegroups-github.png)  
+Figure 3 - MultiCourse Hub with Groups in GitHub Repository
