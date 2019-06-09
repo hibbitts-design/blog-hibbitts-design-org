@@ -13,7 +13,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : MultiCourse Hub with course groups now available
-    'twitter:description' : Multiple course instances can now be grouped (e.g. by terms) in MultiCourse Hub.
+    'twitter:description' : Multiple course instances can now be grouped (e.g. by term) in MultiCourse Hub.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-10-multicourse-hub-course-groups-now-available/multicoursegroups-admin.png'
 ---
 
