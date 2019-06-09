@@ -22,7 +22,7 @@ To support better course content organization, and minimize the need for Git Bra
 ![MultiCourse Hub with Groups in the Admin Panel](multicoursegroups-admin.png)  
 Figure 1 - MultiCourse Hub with Groups in the Admin Panel
 
-Content can be shared within a single course and as well between courses.
+Content can also be shared within a single course and as well between courses.
 
 ===
 
