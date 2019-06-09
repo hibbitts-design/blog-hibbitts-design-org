@@ -17,7 +17,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-10-multicourse-hub-course-groups-now-available/multicoursegroups-admin.png'
 ---
 
-To support better course content organization, and minimize the need for Git Branches when developing multiple future course offerings, [MultiCourse Hubs](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/) now support [course groups](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-multicoursegroups-hub-site/) (e.g. multiple course offerings grouped together).
+To support better course content organization, more easily keep archives of past course offerings, and minimize the need for Git Branches when developing multiple future course offerings, [MultiCourse Hubs](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/) now support [course groups](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-multicoursegroups-hub-site/) (e.g. multiple course offerings grouped together).
 
 ![MultiCourse Hub with Groups in the Admin Panel](multicoursegroups-admin.png)  
 Figure 1 - MultiCourse Hub with Groups in the Admin Panel
