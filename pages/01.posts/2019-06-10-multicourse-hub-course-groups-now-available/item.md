@@ -29,3 +29,6 @@ Figure 2 - MultiCourse Hub with Groups Course List (courses can also be not list
 
 ![MultiCourse Hub with Groups synchronized to a GitHub Repository](multicoursegroups-github.png)  
 Figure 3 - MultiCourse Hub with Groups synchronized to a GitHub Repository
+
+![MultiCourse Hub with Groups synchronized to a GitHub Repository - course folder with multiple terms](multicoursegroups-github.png)  
+Figure 3 - MultiCourse Hub with Groups synchronized to a GitHub Repository  - course folder with multiple terms
