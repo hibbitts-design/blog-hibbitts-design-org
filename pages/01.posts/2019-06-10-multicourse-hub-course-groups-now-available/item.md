@@ -25,7 +25,7 @@ Figure 1 - MultiCourse Hub with Groups in the Admin Panel
 ===
 
 ![MultiCourse Hub with Groups Course List](multicoursegroups-courselist.png)  
-Figure 2 - MultiCourse Hub with Groups Course List (courses can also be not shown)
+Figure 2 - MultiCourse Hub with Groups Course List (courses can also be not listed)
 
 ![MultiCourse Hub with Groups synchronized to a GitHub Repository](multicoursegroups-github.png)  
 Figure 3 - MultiCourse Hub with Groups synchronized to a GitHub Repository
