@@ -22,8 +22,6 @@ To support organizing course content by term (or by other criteria), sharing con
 ![MultiCourse Hub with Groups in the Admin Panel](multicoursegroups-admin.png)  
 Figure 1 - MultiCourse Hub with Groups in the Admin Panel
 
-Content can also be shared within a single course and as well between courses.
-
 ===
 
 ![MultiCourse Hub with Groups Course List](multicoursegroups-courselist.png)  
