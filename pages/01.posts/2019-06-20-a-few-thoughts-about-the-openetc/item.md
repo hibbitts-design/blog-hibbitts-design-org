@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About... the OpenETC"
+title: "A Few Thoughts About... the OpenETC, Grav, Markdown, and Git"
 date: 06/20/2019
 published: true
 continue_link: true
@@ -11,7 +11,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Few Thoughts About... the OpenETC
+    'twitter:title' : Few Thoughts About... the OpenETC, Grav, Markdown, and Git
     'twitter:description' : A brief exploration of the OpenETC along with Grav, Markdown and Git apps.
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-20-a-few-thoughts-about-the-openetc/screenshot.png'
 ---
