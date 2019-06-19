@@ -13,7 +13,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Few Thoughts About... the OpenETC, Grav, Markdown, and Git
     'twitter:description' : A brief exploration of the OpenETC along with Grav, Markdown and Git apps.
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-20-a-few-thoughts-about-the-openetc/screenshot.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-20-a-few-thoughts-about-the-openetc-grav-markdown-and-git/screenshot.png'
 ---
 
 _Recently I tweeted about my initial exploration of the fantastic [OpenETC](https://opened.ca/) project, and I thought I would share them here:_
