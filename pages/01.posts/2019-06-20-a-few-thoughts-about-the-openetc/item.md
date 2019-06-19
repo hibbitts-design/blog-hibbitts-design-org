@@ -16,7 +16,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-20-a-few-thoughts-about-the-openetc/screenshot.png'
 ---
 
-_Recently I tweeted about my initial exploration of the fantastic OpenETC project, and I thought I would share them here:_
+_Recently I tweeted about my initial exploration of the fantastic [OpenETC](https://opened.ca/) project, and I thought I would share them here:_
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pretty jazzed to try the <a href="https://twitter.com/cloudron_io?ref_src=twsrc%5Etfw">@cloudron_io</a> platform for open courses and publishing with <a href="https://twitter.com/getgrav?ref_src=twsrc%5Etfw">@getgrav</a>, Markdown &amp; Git on <a href="https://twitter.com/openetc?ref_src=twsrc%5Etfw">@openetc</a> today. OpenETC is all about community to foster and support open infrastructure for the BC post-secondary sector, so I&#39;ll be sharing as I go along 🚀 <a href="https://twitter.com/hashtag/openetc?src=hash&amp;ref_src=twsrc%5Etfw">#openetc</a> <a href="https://t.co/QY5loidk85">pic.twitter.com/QY5loidk85</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1141377047094128640?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
