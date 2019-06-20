@@ -101,3 +101,18 @@ _Recently I tweeted about my initial exploration of the fantastic [OpenETC](http
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">In fact, to me this distributed approach is ideal - it lessens the resources at <a href="https://twitter.com/openetc?ref_src=twsrc%5Etfw">@openetc</a> for an open and collaborative FIPPA compliant content platform while placing the (heavier?) demands of Web hosting on another supplier. My favorite Grav web host? <a href="https://twitter.com/ReclaimHosting?ref_src=twsrc%5Etfw">@ReclaimHosting</a> hands down!!</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1141430442861613056?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">FAQ #2: Can I use Grav alone to get started?<br><br>Yes, you can use just Grav for your website - and to make it even easier there are a number of ready-to-run Grav packages (called Skeletons) for download <a href="https://t.co/9PFedwpqcF">https://t.co/9PFedwpqcF</a> Then, if you like you can use the Git Sync Plugin etc.</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1141448885631455232?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">FAQ #3: Who&#39;s the intended audience for Grav Open Course Hub or Open Publishing Space?<br><br>I&#39;d say more &#39;Tech-savvy&#39; authors who want a fast + flexible workflow:<br>✅Code editor usage (eg Atom)<br>✅Markdown or HTML basics<br>✅Understanding folder hierarchies<br>✅GitHub/Git working knowledge</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1141453898865004545?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">And to complete the set of Grav CMS tests on OpenETC let&#39;s welcome the Learn2 with Git Sync Package, featuring the ability to view (or edit) the source Markdown of any page for <a href="https://twitter.com/hashtag/OER?src=hash&amp;ref_src=twsrc%5Etfw">#OER</a> along with the super-powerful TNTSearch engine👉 <a href="https://t.co/NtW4rNQHVM">https://t.co/NtW4rNQHVM</a> <a href="https://t.co/YXHBrsOAyl">https://t.co/YXHBrsOAyl</a> <a href="https://t.co/ZpEppeEzJp">pic.twitter.com/ZpEppeEzJp</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1141464902265032705?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
