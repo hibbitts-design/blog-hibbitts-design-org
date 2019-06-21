@@ -34,7 +34,7 @@ This is a brief guide to help educators use the [Grav Course Hub](https://github
 ## Course Hub Overview
 The Course Hub skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](../2015-12-18-flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
-Can't wait to see the flipped LMS approach in action? Explore a mid-term snapshot of the [SFU CMPT-363 Grav Course Hub](http://paulhibbitts.net/grav/cmpt-363-163-demo/), partnered with the [Canvas LMS](https://www.canvaslms.com/).    
+Can't wait to see the flipped LMS approach in action? Explore a mid-term snapshot of the [SFU CMPT-363 Grav Course Hub](http://paulhibbitts.net/grav/cmpt-363-163-demo/), partnered with the [Canvas LMS](https://www.instructure.com/canvas/).    
 
 ### Course Hub Features
 * A complete ready-to-run Grav package ([Source on GitHub](https://github.com/hibbitts-design/grav-skeleton-course-hub))

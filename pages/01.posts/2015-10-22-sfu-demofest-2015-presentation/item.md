@@ -28,7 +28,7 @@ Let's be honest, as course facilitators we want to deliver the best possible onl
 
 ===
 
-A flipped-LMS is an approach where an open platform, chosen by an instructor, provides an alternative (and preferably collaborative) front-end to their institutional LMS. In this presentation Paul will demonstrate how this approach can produce significant improvements to both the student and instructor experience. Elements from Paul's personal toolkit to be highlighted will include [Canvas](http://www.canvaslms.com/) (naturally), the open source flat-file CMS [Grav](http://getgrav.org/), and [GitHub Desktop](https://desktop.github.com/).
+A flipped-LMS is an approach where an open platform, chosen by an instructor, provides an alternative (and preferably collaborative) front-end to their institutional LMS. In this presentation Paul will demonstrate how this approach can produce significant improvements to both the student and instructor experience. Elements from Paul's personal toolkit to be highlighted will include [Canvas](http://www.instructure.com/canvas/) (naturally), the open source flat-file CMS [Grav](http://getgrav.org/), and [GitHub Desktop](https://desktop.github.com/).
 
 Presentation Slides
 <div class="video-responsive video-responsive-4-3"><iframe src="//slides.com/paulhibbitts/sfu-demofest-2015-flipping-the-lms/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>

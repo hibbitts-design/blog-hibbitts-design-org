@@ -32,7 +32,7 @@ Here is the list of apps I am using to reach my pedagogical and student/facilita
 :fa-check: [Swipe](https://desktop.github.com/)  
 :fa-check: [RocketChat](https://rocket.chat/)  
 :fa-check: [Sandstorm](https://sandstorm.io/)  
-:fa-check: [Canvas LMS](https://www.canvaslms.com/)  
+:fa-check: [Canvas LMS](https://www.instructure.com/canvas/)  
 
 You can check out the ~~nearly~~ complete Open Course Hub at [paulhibbitts.net/cmpt-363-173/](http://paulhibbitts.net/cmpt-363-173/).
 

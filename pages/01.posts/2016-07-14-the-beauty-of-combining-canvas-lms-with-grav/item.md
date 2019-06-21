@@ -23,7 +23,7 @@ taxonomy:
 
 This post was inspired by the very informative July 14th [BCcampus](bccampus.ca) Canvas LMS session with [Stan Wendt](https://twitter.com/stanwendt) and moderated by [Clint Lalonde](https://twitter.com/clintlalonde).
 
-If my reading of the tea leaves is correct, there could be a big uptake of the use of the [Canvas LMS](https://www.canvaslms.com/) in Canada with news of a possible hosted in Canada cloud offering. As a sessional faculty member of the [Computing Science Department](http://www.sfu.ca/computing.html) at [Simon Fraser University](http://www.sfu.ca) I've been using Canvas for the past several years and I thought it might be helpful for other potential users of Canvas to share my experiences so far.
+If my reading of the tea leaves is correct, there could be a big uptake of the use of the [Canvas LMS](https://www.instructure.com/canvas/) in Canada with news of a possible hosted in Canada cloud offering. As a sessional faculty member of the [Computing Science Department](http://www.sfu.ca/computing.html) at [Simon Fraser University](http://www.sfu.ca) I've been using Canvas for the past several years and I thought it might be helpful for other potential users of Canvas to share my experiences so far.
 
 ===
 

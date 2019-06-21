@@ -20,4 +20,4 @@ With this approach, instructors can create better outcomes and experiences for s
 
 ===
 
-Explore an example flipped-LMS implementation, created for my Simon Fraser University CMPT 363 course and built with the open source CMS [Grav](http://getgrav.org) + Instructure's [Canvas LMS](http://www.canvaslms.com/) at [http://paulhibbitts.net/cmpt-363-163/](http://paulhibbitts.net/cmpt-363-163/).
+Explore an example flipped-LMS implementation, created for my Simon Fraser University CMPT 363 course and built with the open source CMS [Grav](http://getgrav.org) + Instructure's [Canvas LMS](http://www.instructure.com/canvas/) at [http://paulhibbitts.net/cmpt-363-163/](http://paulhibbitts.net/cmpt-363-163/).

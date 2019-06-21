@@ -32,7 +32,7 @@ Here is the list of apps I am using to reach my pedagogical and student/facilita
 :fa-check: [Swipe](https://desktop.github.com/)  
 :fa-check: [RocketChat](https://rocket.chat/)  
 :fa-check: [Sandstorm](https://sandstorm.io/)  
-:fa-check: [Canvas LMS](https://www.canvaslms.com/) (well, no surprises there)  
+:fa-check: [Canvas LMS](https://www.instructure.com/canvas/) (well, no surprises there)  
 
 You can check out the in-progress Canvas site for the course at [https://canvas.sfu.ca/courses/38847](https://canvas.sfu.ca/courses/38847).
 

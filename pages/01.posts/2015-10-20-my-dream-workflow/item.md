@@ -64,4 +64,4 @@ If the above is not enough benefit for this workflow, here comes the kicker: sin
 ![CMPT-363 Course Companion Screenshot](../2015-10-20-my-dream-workflow/cmpt-363-course-companion.png)
 _Figure 3. A course companion page with a "Edit this page on GitHub" link to seamlessly initiate the process of submitting changes via GitHub._
 
-Well, there you have it. If you are interested in learning more about this workflow, or about my experiences of using [Grav CMS](http://www.getgrav.org/) as a means to support a flipped-LMS approach (in my case with the [Canvas LMS](http://www.canvaslms.com/)), please get in touch.
+Well, there you have it. If you are interested in learning more about this workflow, or about my experiences of using [Grav CMS](http://www.getgrav.org/) as a means to support a flipped-LMS approach (in my case with the [Canvas LMS](http://www.instructure.com/canvas/)), please get in touch.
