@@ -15,7 +15,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Few Thoughts About... Grav CMS workflows, along with Markdown and the Git ecosystem
+    'twitter:title' : 'Few Thoughts About... Grav CMS workflows, along with Markdown and the Git ecosystem'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-06-26-a-few-thoughts-about-grav-cms-workflows/screenshot.png'
 ---
 
