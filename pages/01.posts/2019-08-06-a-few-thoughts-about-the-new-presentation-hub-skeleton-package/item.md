@@ -39,3 +39,8 @@ _Recently I tweeted a sneak peek of the new Grav Presentation Hub skeleton, and 
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">You can also create multiple presentation list pages and then place one or more presentations on each list page, like this👇 <a href="https://t.co/xDrk2AhzgF">pic.twitter.com/xDrk2AhzgF</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1158476217663680512?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Psst...everything you see going on in the Presentation Hub is actually already part of the Grav Open Course Hub🤫<a href="https://t.co/1eYFFNhCHf">https://t.co/1eYFFNhCHf</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1158488078031286272?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
