@@ -1,5 +1,5 @@
 ---
-title: "Starting a New Term of CMPT-363 User Interface Design, with Open Course Hub... Naturally!"
+title: "Starting a New Term of CMPT-363 User Interface Design, with Grav Open Course Hub... Naturally!"
 date: 08/26/2019
 published: true
 continue_link: true
