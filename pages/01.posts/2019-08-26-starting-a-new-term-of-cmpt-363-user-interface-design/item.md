@@ -8,15 +8,13 @@ taxonomy:
     category: blog
     tag:
         - Open
-        - Git
-        - GitSync
-        - Markdown
-        - Presentation
+        - CourseHub
+        - Flipped-LMS
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Starting a new Term of CMPT-363 User Interface Design, with Open Course Hub... Naturally!
-    'twitter:description' : 'A review of some recent Grav project updates, and getting ready for my next offering of CMPT-363'
+    'twitter:description' : 'A brief review of some recent Grav project updates, and getting ready for my next offering of CMPT-363'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-08-26-starting-a-new-term-of-cmpt-363-user-interface-design/screenshot.png'
 ---
 
