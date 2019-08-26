@@ -20,7 +20,7 @@ metadata:
 
 It's a cliche (for a good reason), but I it's hard to believe the summer is almost over and the fall teaching term is about to begin.
 
-Over the summer I continued working on all of my Grav open education and publishing projects, with the highlight being the brand new Grav skeleton package [Open Presentation Hub](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/) to help create, publish, and share Markdown-based slides with the [Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation) by Ole Vik, which uses the Reveal.js Framework.
+Over the summer I continued working on all of my Grav open education and publishing projects. A highlight was the brand new Grav skeleton package [Open Presentation Hub](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/) to help create, publish, and share Markdown-based slides with the [Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation) by Ole Vik, which uses the Reveal.js Framework.
 
 ===
 
