@@ -8,7 +8,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Open Course Hub and Open Publishing Space Updates'
     'twitter:description': 'Based on user feedback, the theme settings for Git Sync and custom menu options have been updated to better group/present these items.'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-12-09-open-course-hub-and-open-publishing-space-updates/screenshot-1.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2019-12-09-open-course-hub-and-open-publishing-space-updates/screenshot-2.png'
 taxonomy:
     category: blog
     tag:
