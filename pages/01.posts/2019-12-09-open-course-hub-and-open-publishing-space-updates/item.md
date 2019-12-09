@@ -31,3 +31,8 @@ Figure 2 - Custom Menu Options
 Figure 3 - Git Sync Link Options
 
 With the big release of Grav 1.7 getting closer and closer, I've also been testing and preparing all of my Grav projects and themes for this sure to be very eventful release (esp. with the initial support of Flex Pages, for the fast delivery of much larger sites).
+
+Here is another sneak peek at the upcoming Admin Panel Pages list, optimized for handling and navigating even the largest of sites (Grav MultiCourse Hub shown)👇
+
+![Grav 1.7 Flex Pages Admin Panel](screenshot-4.png)  
+Figure 4 - Grav 1.7 Flex Pages Admin Panel
