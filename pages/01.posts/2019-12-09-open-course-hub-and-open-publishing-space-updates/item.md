@@ -19,10 +19,10 @@ taxonomy:
 
 While I've been heads-down with my SFU [CMPT-363 User Interface Design](https://paulhibbitts.net/cmpt-363/193/home) course, I've just released a theme settings update for my Grav Open Course Hub and Open Publishing Space projects. Based on feedback from [@MakaryGo](https://github.com/MakaryGo), these changes are intended to better group/present Git Sync and custom menu options.
 
-===
-
 ![Open Publishing Options](screenshot-1.png)  
 Figure 1 - Open Publishing Options
+
+===
 
 ![Custom Menu Options](screenshot-2.png)  
 Figure 2 - Custom Menu Options
