@@ -28,4 +28,4 @@ hero_scroll: true
 ---
 
 # Exploring and Building Open [Source] Software for Tech-savvy Educators and OER Publishers
-### EXPERIENCE DESIGN / EDUCATION / MULTI-DEVICE / GRAV CMS / GIT
+### INTERACTION DESIGN / EDUCATION / SYSTEMS-ORIENTED DESIGN
