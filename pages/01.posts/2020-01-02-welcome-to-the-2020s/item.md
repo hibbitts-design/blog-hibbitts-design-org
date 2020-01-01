@@ -38,7 +38,7 @@ On the horizon is the first official release of Grav 1.7, which will bring initi
 ![Upcoming Grav 1.7 Flex Pages UI](screenshot.png)  
 Figure 1 - Upcoming Grav 1.7 Flex Pages UI
 
-A shoutout to the very helpful and supportive Grav core team, community, and also to all of the educators who continue to provide me with insight and feedback on their online course and open education needs. Special thanks to the folks and teams who are supporting my continued work with Grav🎉
+A shoutout to the very helpful and supportive Grav core team, community, and also to all of the educators who continue to provide me with insight and feedback on their online course and open education needs. Special thanks to the folks and teams who are financially supporting my continued work with Grav🎉
 
 As the new year starts I'll also be keeping an eye on some other promising open source projects and technologies, including [haxtheweb.org](https://haxtheweb.org/) (which there is also a [Grav Plugin](https://github.com/elmsln/grav-plugin-hax) for), [H5P.org](https://h5p.org/), and the [JAMstack](https://jamstack.org/) space. A brand new Grav project I am especially looking forward to exploring is [Grav Scholar](https://github.com/OleVik/grav-skeleton-scholar) by [Ole Vik](https://github.com/OleVik), which is a highly accessible theme designed to support the publication of academic-focused content in the form of papers, articles, books, blogs and documentation - all shown in the [Scholar demo site](https://olevik.me/staging/grav-skeleton-scholar/). Open Source is Choice⚡️
 
