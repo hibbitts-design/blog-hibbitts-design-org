@@ -42,7 +42,7 @@ A shoutout to the very helpful and supportive Grav core team, community, and als
 
 As the new year starts I'll also be keeping an eye on some other promising open source projects and technologies, including [haxtheweb.org](https://haxtheweb.org/) (which there is also a [Grav Plugin](https://github.com/elmsln/grav-plugin-hax) for), [H5P.org](https://h5p.org/), and the [JAMstack](https://jamstack.org/) space. A brand new Grav project I am especially looking forward to exploring is [Grav Scholar](https://github.com/OleVik/grav-skeleton-scholar) by [Ole Vik](https://github.com/OleVik), which is a highly accessible theme designed to support the publication of academic-focused content in the form of papers, articles, books, blogs and documentation - all shown in the [Scholar demo site](https://olevik.me/staging/grav-skeleton-scholar/). Open Source is Choice⚡️
 
-I also plan to further explore the application of systems-oriented design this year in relation to my own open source projects, as I've previously tried to illustrate with the following two diagrams:
+I also plan to further explore the application of systems-oriented design this year in relation to my open source projects, as I've previously tried to illustrate with the following two diagrams:
 
 ![Future-friendly Open Content System](future-friendly-open-content-system.jpg)  
 Figure 2 - Future-friendly Open Content System
