@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the 2020's!🤝"
+title: "Welcome to the 2020's!🙌"
 date: 01/02/2020
 continue_link: false
 header_image: false
