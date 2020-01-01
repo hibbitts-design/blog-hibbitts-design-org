@@ -9,7 +9,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Farewell 2019, Hello 2020!'
     'twitter:description': 'The start of a new decade looks exciting for both Grav and my Grav-based open education projects'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-01-02-welcome-to-the-2020s/screenshot.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-01-02-welcome-to-the-2020s/future-friendly-open-content-system.jpg'
 taxonomy:
     category: blog
     tag:
