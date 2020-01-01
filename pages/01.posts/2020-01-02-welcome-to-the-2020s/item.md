@@ -25,7 +25,7 @@ Here are the highlights of my Grav project work this past year:
 * Sponsored the development of the [Presentation Deckset Plugin](https://github.com/OleVik/grav-plugin-presentation-deckset) by [Ole Vik](https://github.com/OleVik), to support [Deckset](https://www.deckset.com/) syntax within Grav Presentations
 * Added taxonomy 'tag' support to default TNTSearch index with Learn2 with Git Sync
 * Added support of the 'visible' page setting for Section-type pages in Open Course Hub and Open Publishing Space
-* Enhanced support for 'dual-mode' delivery in Open Course Hub, to provide simultaneous delivery of a standalone site and embedded site content within an LMS (for a demo view [paulhibbitts.net/cmpt-363/193/home](https://paulhibbitts.net/cmpt-363/193/home) and [canvas.sfu.ca/courses/47119](https://canvas.sfu.ca/courses/47119))
+* Enhanced support for 'dual-mode' delivery in Open Course Hub, to provide simultaneous delivery of a standalone site and embedded site content within an LMS (for a demo view [paulhibbitts.net/cmpt-363/193/home](https://paulhibbitts.net/cmpt-363/193/home) and [canvas.sfu.ca/courses/47119](https://canvas.sfu.ca/courses/47119)). _This was proven to be a hit based on feedback from my Fall 2019 CMPT-363 students🚀_
 * Initial Grav 1.7 Flex Pages included in Open Course Hub, Open Publishing Space, and Learn2 with Git Sync
 * Included demonstration Web Components Shortcode 'StopNote' (`[wcstopnote title="" message=""]`), which is made possible by the [Web Components Plugin](https://github.com/elmsln/grav-plugin-webcomponents) by [Bryan Ollendyke](https://github.com/btopro)
 * MarkdownFile Shortcode to display external Markdown files in Open Course Hub and Open Publishing Space, including Grav Pages stored within a Git Repository
