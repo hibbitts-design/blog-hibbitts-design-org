@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the 2020s!🙌"
 date: 01/02/2020
-continue_link: false
+continue_link: true
 header_image: false
 metadata:
     'twitter:card': summary
@@ -16,7 +16,11 @@ taxonomy:
         - YearEndReview
 ---
 
+🌎Starting this year I plan to help support the efforts of others involved in climate change action by providing no-charge premium support for my Grav projects involved in the raising of awareness and action of climate change - contact me at [safe-email autolink="true"]paul@hibbittsdesign.org[/safe-email] for details.🌏
+
 Well that decade blew by. In terms of just this past year, two things  standout professionally – my first experience with student-generated assessment in [CMPT-363](https://paulhibbitts.net/cmpt-363/193/home) (which I’ve presented about in Vancouver at [SFU DEMOfest](https://www.sfu.ca/cee/news/demofest-presenter-slides.html) and [online via ETUG](https://etug.ca/2019/11/13/student-generated-assessment-questions-the-journey-so-far/)) and of course my [Grav-based open education and publishing projects](https://github.com/hibbitts-design) that are designed to help people who want to use a Markdown-based Git (i.e. GitHub, GitLab, Gitea, etc.) content workflow.
+
+===
 
 Here are the highlights of my Grav project work this past year:
 
@@ -48,8 +52,6 @@ Figure 2 - Future-friendly Open Content System
 
 ![Grav CMS with Markdown Git Workflow](grav-cms-with-markdown-git-workflow.jpg)  
 Figure 3 - Grav CMS with Markdown Git Workflow
-
-🌎Starting this year I also plan to help support the efforts of others involved in climate change action by providing no-charge premium support for my Grav projects involved in the raising of awareness and action of climate change - contact me at [safe-email autolink="true"]paul@hibbittsdesign.org[/safe-email] for details.🌏
 
 All the best to you and yours in 2020!
 
