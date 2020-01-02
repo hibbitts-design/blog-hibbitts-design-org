@@ -49,7 +49,7 @@ Figure 2 - Future-friendly Open Content System
 ![Grav CMS with Markdown Git Workflow](grav-cms-with-markdown-git-workflow.jpg)  
 Figure 3 - Grav CMS with Markdown Git Workflow
 
-🌍Starting this year I also plan to help support the efforts of others involved in climate change action by providing no-charge premium support for my Grav projects involved in the raising of awareness and action of climate change - contact me at [safe-email autolink="true"]paul@hibbittsdesign.org[/safe-email] for details.🌍
+🌎Starting this year I also plan to help support the efforts of others involved in climate change action by providing no-charge premium support for my Grav projects involved in the raising of awareness and action of climate change - contact me at [safe-email autolink="true"]paul@hibbittsdesign.org[/safe-email] for details.🌏
 
 All the best to you and yours in 2020!
 
