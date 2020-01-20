@@ -7,7 +7,7 @@ metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'Vancouver Festival of Learning 2020 Session'
-    'twitter:description': 'An overview of my Grav session during the 2020 Festival of Learning in Vancouver, BC May 11-13'
+    'twitter:description': 'An overview of my Grav CMS session during the 2020 Festival of Learning in Vancouver, BC May 11-13'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-01-20-vancouver-2020-festival-of-learning-grav-oer-session/grav-open-publishing-workflow-using-markdown-and-git.jpg'
 taxonomy:
     category: blog
