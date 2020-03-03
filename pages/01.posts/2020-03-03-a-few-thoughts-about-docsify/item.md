@@ -15,7 +15,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... Docsify
     'twitter:description' : 'Updating my Future-friendly Open Content diagram with Docsify'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-03-03-a-few-thoughts-about-docsify/docsify.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-03-03-a-few-thoughts-about-docsify/diagram.jpg'
 ---
 
 _Recently I tweeted about my discovery of Docsify, which led me to also update my Future-friendly Open Content diagram, and I thought I would share them here:_
