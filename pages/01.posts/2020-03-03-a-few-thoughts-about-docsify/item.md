@@ -32,3 +32,8 @@ _Recently I tweeted about my discovery of Docsify, which led me to also update m
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">This is a real-world example of how the use of Markdown can make your content truly future-friendly, with the capability of moving to completely different rendering platforms🚀</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1234961084970258433?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">You can check out Docsify yourself at <a href="https://t.co/0Nio4fkQfL">https://t.co/0Nio4fkQfL</a>, and while available checkout my Grav-&gt;Docsify Learn2 with Git Sync test site at <a href="https://t.co/TZpl0DuVRD">https://t.co/TZpl0DuVRD</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1234976229507260417?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
