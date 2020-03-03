@@ -18,7 +18,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-03-03-a-few-thoughts-about-docsify/docsify.png'
 ---
 
-_Recently I discovered Docsify, which led me to also update my Future-friendly Open Content diagram, and I thought I would share them here:_
+_Recently I tweeted about my discovery of Docsify, which led me to also update my Future-friendly Open Content diagram, and I thought I would share them here:_
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ve just revised my Future-friendly Open Content system to include Docsify, an amazing Markdown-based documentation system that automatically re-generates updated Markdown pages 👇 <a href="https://t.co/MnvcnmW4p0">pic.twitter.com/MnvcnmW4p0</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1234959802549227520?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
