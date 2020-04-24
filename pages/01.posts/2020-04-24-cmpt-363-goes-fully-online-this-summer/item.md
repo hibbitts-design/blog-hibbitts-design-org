@@ -9,7 +9,7 @@ taxonomy:
     tag:
         - Open
         - CourseHub
-        - Online
+        - OnlineCourse
         - Flipped-LMS
 metadata:
     'twitter:card' : summary
