@@ -1,5 +1,5 @@
 ---
-title: "CMPT-363 User Interface Design Goes Fully Online this Summer, with Grav Open Course Hub... of Course!"
+title: "CMPT-363 User Interface Design Goes Fully Online this Summer, with Grav Open Course Hub"
 date: 04/24/2020
 published: true
 continue_link: false
@@ -14,7 +14,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : CMPT-363 User Interface Design goes fully online this summer, with Grav Open Course Hub... of course!
+    'twitter:title' : CMPT-363 User Interface Design goes fully online this summer, with Grav Open Course Hub
     'twitter:description' : 'A sneak peek at the fully online version of CMPT-363 using the Grav Open Course Hub'
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-04-24-cmpt-363-goes-fully-online-this-summer/screenshot.png'
 ---
