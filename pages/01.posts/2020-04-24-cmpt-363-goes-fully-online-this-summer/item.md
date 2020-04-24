@@ -21,7 +21,7 @@ metadata:
 
 I hope that you are safe and keeping connected with those you care about in these emotionally and physically challenging times.
 
-With all SFU courses moving online this summer I decided to apply to teach CMPT 363 User Interface Design several weeks ago and just this week learned that the additional section of the course would go ahead. For students not in other Canvas LMS courses a [multi-device site with Canvas links](https://paulhibbitts.net/cmpt-363/202/home) is available, and for students in other Canvas courses content is [seamlessly embedded into Canvas](https://canvas.sfu.ca/courses/53207).
+With all SFU courses moving online this summer I decided to apply to teach CMPT 363 User Interface Design several weeks ago, and just this week learned that the additional section of the course would go ahead. For students not in other Canvas LMS courses a [multi-device site with Canvas links](https://paulhibbitts.net/cmpt-363/202/home) is available, and for students in other Canvas courses content is [seamlessly embedded into Canvas](https://canvas.sfu.ca/courses/53207).
 
 I am really looking forward to learning with my students once again!
 
