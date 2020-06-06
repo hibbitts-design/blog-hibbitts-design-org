@@ -40,7 +40,7 @@ For a step-by-step guide to installing MAMP locally for use with Grav, read the 
 
 ## 3) Desktop and Web server (with on-going automatic deployments)
 
-Both of the following approaches use [Git](https://git-scm.com/). While there are many benefits of using Git when developing a website, the most crucial one is that it provides very fine control over what (and when) changes are pushed to your live website.
+Both of the following approaches use [Git](https://git-scm.com/), and will require Git running on your Web server. While there are many benefits of using Git when developing a website, the most crucial one is that it provides very fine control over what (and when) changes are pushed to your live website.
 
 ### Private Git Repository
 Install and maintain the Grav site on your desktop with MAMP and then use [GitHub Desktop](https://desktop.github.com/) to quickly sync the site to a private Git repository service as needed for later deployment. If you are looking for a free option to start with, [Beanstalk](http://beanstalkapp.com/) offers a one user private project plan with 100MB of storage and includes automatic site deployment to an FTP Web server.
