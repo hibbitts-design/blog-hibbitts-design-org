@@ -1,5 +1,5 @@
 ---
-title: "CMPT-363 User Interface Design Fully Online again the Fall Summer, with Grav Open Course Hub"
+title: "CMPT-363 User Interface Design Fully Online again the Fall, with Grav Open Course Hub"
 date: 08/26/2020
 published: true
 continue_link: false
