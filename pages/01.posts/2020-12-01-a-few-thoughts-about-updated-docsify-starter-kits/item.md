@@ -28,10 +28,8 @@ _Recently I tweeted about some notable updates to my two new Docsify Starter Kit
 
 <br>
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Oh, and of course live demos are also available! First, for the Docsify Open Publishing Starter Kit👉<a href="https://t.co/LqsNyF9tOM">https://t.co/LqsNyF9tOM</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1243582895383433216?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Want to check out a live demo of each? Here you go!<a href="https://twitter.com/getgrav?ref_src=twsrc%5Etfw">@getgrav</a> Open Course Hub<a href="https://t.co/1eYFFNhCHf">https://t.co/1eYFFNhCHf</a><a href="https://t.co/3uT8dwMpwi">https://t.co/3uT8dwMpwi</a> Open Course Starter Kit (serverless, using GitHub pages)<a href="https://t.co/gRZ3rLVddI">https://t.co/gRZ3rLVddI</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1332372808953778177?ref_src=twsrc%5Etfw">November 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">And next, the demo for the Docsify Open Course Starter Kit👉 <a href="https://t.co/gRZ3rLVddI">https://t.co/gRZ3rLVddI</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1243583175118311424?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">You can learn more about my updated Docsify Open Course Starter Kit at <a href="https://t.co/VcDLOgftoz">https://t.co/VcDLOgftoz</a> (and start using it within minutes on your own GitHub account 🚀)</p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1332374858961829888?ref_src=twsrc%5Etfw">November 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
