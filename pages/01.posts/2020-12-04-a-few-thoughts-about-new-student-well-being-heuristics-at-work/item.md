@@ -16,7 +16,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... New Student Well-being Heuristics at Work
-    'twitter:description' : "These heuristics are for online course sites, and are in additional to Nielsen's classic 10 heuristics"
+    'twitter:description' : "These heuristics are for online course sites, and are in additional to Jakob Nielsen's classic 10 heuristics"
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-12-04-a-few-thoughts-about-new-student-well-being-heuristics-at-work/slide.png'
 ---
 
