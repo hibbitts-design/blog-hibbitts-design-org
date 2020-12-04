@@ -7,9 +7,11 @@ header_image: false
 taxonomy:
     category: blog
     tag:
-        - markdown
-        - git
-        - docsify
+        - Heuristics
+        - Open
+        - CourseHub
+        - OnlineCourse
+        - Flipped-LMS
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
