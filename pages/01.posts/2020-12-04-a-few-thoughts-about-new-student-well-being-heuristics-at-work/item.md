@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About... New Student Well-being Heuristics"
+title: "A Few Thoughts About... New Student Well-being Heuristics at Work"
 date: 12/04/2020
 published: true
 continue_link: true
@@ -15,9 +15,9 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : A Few Thoughts About... New Student Well-being Heuristics
+    'twitter:title' : A Few Thoughts About... New Student Well-being Heuristics at Work
     'twitter:description' : "These heuristics are for online course sites, and are in additional to Nielsen's classic 10 heuristics"
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-12-04-a-few-thoughts-about-new-student-well-being-heuristics/slide.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2020-12-04-a-few-thoughts-about-new-student-well-being-heuristics-at-work/slide.png'
 ---
 
 _Recently I tweeted about my new student well-being heuristics with a simple example of them at work, and I thought I would share them here:_
