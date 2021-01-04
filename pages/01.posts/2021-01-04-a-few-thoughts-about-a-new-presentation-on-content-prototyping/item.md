@@ -7,11 +7,9 @@ header_image: false
 taxonomy:
     category: blog
     tag:
-        - Heuristics
-        - Open
-        - CourseHub
-        - OnlineCourse
-        - Flipped-LMS
+        - Prototyping
+        - Markdown
+        - Presentation
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
