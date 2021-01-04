@@ -10,6 +10,7 @@ taxonomy:
         - Prototyping
         - Markdown
         - Presentation
+        - GitHub
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
