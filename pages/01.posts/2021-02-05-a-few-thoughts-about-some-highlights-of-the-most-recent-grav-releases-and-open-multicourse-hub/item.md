@@ -13,7 +13,7 @@ taxonomy:
       - Git
       - LMS
       - CanvasLMS
-      - MultiCourse Hub
+      - MultiCourseHub
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
