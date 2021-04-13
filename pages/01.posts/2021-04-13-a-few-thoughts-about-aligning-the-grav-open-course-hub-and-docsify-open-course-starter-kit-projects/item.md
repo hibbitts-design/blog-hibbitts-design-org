@@ -20,7 +20,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2021-04-13-a-few-thoughts-about-aligning-the-grav-open-course-hub-and-docsify-open-course-starter-kit-projects/screenshot.jpg'
 ---
 
-_Recently I tweeted about efforts to further align key features of my Grav and Docsify open course projects, and I thought I would share them here:_
+_Recently I tweeted about efforts to further aligned my Grav and Docsify Open Course projects, keeping their unique strengths while sharing core features, and I thought I would share them here:_
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In the past few weeks a lot of progress has been made to align the key features of my <a href="https://twitter.com/getgrav?ref_src=twsrc%5Etfw">@getgrav</a> Open Course Hub and <a href="https://t.co/Cj7y22iLmY">https://t.co/Cj7y22iLmY</a> projects, as can be seen below with seamlessly embedding content from both projects into the <a href=""https://twitter.com/hashtag/CanvasLMS?src=hash&amp;ref_src=twsrc%5Etfw">#CanvasLMS</a>👇🏼 <a href="https://twitter.com/hibbittsdesign/status/1381652101747470337?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
