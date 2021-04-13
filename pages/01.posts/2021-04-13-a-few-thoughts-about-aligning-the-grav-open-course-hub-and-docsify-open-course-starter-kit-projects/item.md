@@ -16,7 +16,7 @@ metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... Aligning the Grav Open Course Hub and Docsify Open Course Starter Kit Projects
-    'twitter:description' : "A look at how I have further aligned my Grav and Docsify Open Course projects, keeping their unique strengths but sharing some key features."
+    'twitter:description' : "A look at how I have further aligned my Grav and Docsify Open Course projects, keeping their unique strengths while sharing core features."
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2021-04-13-a-few-thoughts-about-aligning-the-grav-open-course-hub-and-docsify-open-course-starter-kit-projects/screenshot.jpg'
 ---
 
