@@ -9,7 +9,7 @@ taxonomy:
     tag:
         - Open
         - Git
-        - Docsify
+        - docsify
         - OnlineCourse
         - Flipped-LMS
 metadata:
