@@ -17,7 +17,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A(nother) Year of CMPT-363 User Interface Design, using the Docsify Open Course Starter Kit
     'twitter:description' : 'A sneak peek at the updated fully online offering of CMPT-363 for the Fall 2021'
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2021-08-09-another-year-of-cmpt-363/screenshot.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2021-08-09-another-year-of-cmpt-363/browser.png'
 ---
 
 After a bit of a break this summer I am now preparing for three consecutive offerings of CMPT-363 as a Limited Term Lecturer at [SFU](https://sfu.ca/).
