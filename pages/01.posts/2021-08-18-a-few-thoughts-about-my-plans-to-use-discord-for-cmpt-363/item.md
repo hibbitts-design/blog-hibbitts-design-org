@@ -7,11 +7,10 @@ header_image: false
 taxonomy:
     category: blog
     tag:
-      - GravCMS
-      - opencoursehub
-      - markdown
-      - git
-      - docsify
+      - Open
+      - OnlineCourse
+      - Discord
+      - 52WeeksOfCMPT363
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
