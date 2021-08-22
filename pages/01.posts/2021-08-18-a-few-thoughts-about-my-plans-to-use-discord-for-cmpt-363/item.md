@@ -22,7 +22,10 @@ metadata:
 
 _Recently I tweeted about plans to use Discord as the primary communication space with my upcoming CMPT 363 classes, and I thought I would share them here:_
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sneak peek at my plans to use Discord as the primary communication space with my <a href="https://twitter.com/hashtag/SFU?src=hash&amp;ref_src=twsrc%5Etfw">#SFU</a> Computer Science students this term (online CMPT 363 course this Fall)👇🏼 <a href="https://t.co/LcWF1A0Eid">pic.twitter.com/LcWF1A0Eid</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1428080256183898128?ref_src=twsrc%5Etfw">August 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sneak peek at my plans to use Discord as the primary communication space with my <a href="https://twitter.com/hashtag/SFU?src=hash&amp;ref_src=twsrc%5Etfw">#SFU</a> Computer Science students this term (online CMPT 363 course this Fall)👇🏼 <a href="https://t.co/LcWF1A0Eid">pic.twitter.com/LcWF1A0Eid</a></p>&mdash; Hibbitts Design (@hibbittsdesign) <a href="https://twitter.com/hibbittsdesign/status/1428080256183898128?ref_src=twsrc%5Etfw">August 18, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+===
 
 <br>
 
