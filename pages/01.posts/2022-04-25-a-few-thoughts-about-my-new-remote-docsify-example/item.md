@@ -15,7 +15,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : A Few Thoughts About... my New Remote Docsify Example
     'twitter:description' : "A new example Docsify site is now available on GitHub as a working example of a single Docsify site rendering Markdown content from multiple GitHub repositories."
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2022-04-25-a-few-thoughts-about-my-new-remote-docsify-example/screenshot.jpg'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2022-04-25-a-few-thoughts-about-my-new-remote-docsify-example/screenshot.png'
 ---
 
 _Recently I tweeted about creating a new Docsify example project to demonstrate how a single Docsify instance can render Markdown content from multiple sources, and I thought I would share them here:_
