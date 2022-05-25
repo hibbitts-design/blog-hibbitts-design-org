@@ -9,6 +9,8 @@ taxonomy:
     tag:
       - Open
       - Docsify
+      - OnlineCourse
+      - ExperienceDesign
       - 52WeeksOfCMPT363
 metadata:
     'twitter:card' : summary
