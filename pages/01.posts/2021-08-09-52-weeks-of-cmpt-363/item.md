@@ -9,7 +9,7 @@ taxonomy:
     tag:
         - Open
         - Git
-        - docsify
+        - Docsify
         - OnlineCourse
         - Flipped-LMS
         - 52WeeksOfCMPT363

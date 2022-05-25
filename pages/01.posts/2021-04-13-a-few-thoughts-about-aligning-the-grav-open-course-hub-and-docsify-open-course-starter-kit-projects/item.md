@@ -11,7 +11,7 @@ taxonomy:
       - opencoursehub
       - markdown
       - git
-      - docsify
+      - Docsify
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
