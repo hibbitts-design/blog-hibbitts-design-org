@@ -1,5 +1,5 @@
 ---
-title: "A Few Thoughts About... the launch of CMPT-363 User Interface Design Summer 2022"
+title: "A Few Thoughts About... the Launch of CMPT-363 User Interface Design Summer 2022"
 date: 05/09/2022
 published: true
 continue_link: true
@@ -13,7 +13,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : A Few Thoughts About... the launch of CMPT-363 User Interface Design Summer 2022
+    'twitter:title' : A Few Thoughts About... the Launch of CMPT-363 User Interface Design Summer 2022
     'twitter:description' : "SFU CMPT-363 User Interface Design online course is once again ready to launch with the goal of being a useful and enjoyable learning experience for participants"
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2022-05-99-a-few-thoughts-about-my-cmpt-363-user-interface-design-course-summer-2022/screenshot.png'
 ---
