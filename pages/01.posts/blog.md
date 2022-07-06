@@ -28,4 +28,4 @@ hero_scroll: true
 ---
 
 # Exploring and Building Open [Source] Software for Tech-savvy Educators and OER Publishers
-### INTERACTION DESIGN / EDUCATION / SYSTEMS-ORIENTED DESIGN
+### INTERACTION DESIGN / EDUCATION / SYSTEMS THINKING / MARKDOWN
