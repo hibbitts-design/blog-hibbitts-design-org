@@ -20,7 +20,7 @@ metadata:
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2022-07-14-public-preview-of-docsify-this/screenshot.png'
 ---
 
-It's officially official! I've just made public preview available of my open source [Docsify-This](https://docsify-this.net) project, which provides a quick way to display Markdown files as standalone Web pages without needing to setup your own Docsify site🎉
+It's officially official! I've just made public preview available of my open source [Docsify-This](https://docsify-this.net) project, which provides tech-savvy educators and open publishers a quick way to display Markdown files as standalone Web pages without needing to setup your own Docsify site🎉
 
 ![Docsify-This screenshot](screenshot.png)  
 Figure 1 - Docsify-This Web app
