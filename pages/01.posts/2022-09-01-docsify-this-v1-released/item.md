@@ -1,6 +1,6 @@
 ---
 title: "Docsify-This v1.0 Released"
-date: 07/14/2022
+date: 09/01/2022
 published: true
 continue_link: true
 header_image: false
