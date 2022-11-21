@@ -17,7 +17,7 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Docsify-This v1.2.2 Released
     'twitter:description' : "A notable update to my new project to help people use Docsify even easier and faster."
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2022-11-21-docsify-this-v122-released/screenshot.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2022-11-11-docsify-this-v122-released/screenshot-1.png'
 ---
 
 [Docsify-This.net](https://docsify-this.net) version 1.2.2 is now available. Highlights include support for page annotation using Hypothes.is and improved responsive rendering of embedded H5P content.
