@@ -54,6 +54,15 @@ Let's review the steps to go from a GitHub Markdown file to a web page with Docs
 2. Go to [http://Docsify-This.net](http://Docsify-This.net), paste the URL into the Web Page Builder, and tap the "View as Standalone Web Page" button
 3. That's it, there is no step 3 and no need to setup your own website or run any build process!
 
-The Docsify-This open source project might just now be the easiest way to turn a GitHub Markdown file into a simple web page (and begin to benefit from the possibilities of a Markdown publishing workflow)!
+What Problem Does Docsify-This Solve?  
+Docsify-This provides an easy way to publish and share # Markdown content, with no website setup or build process required. Collaborative authoring using GitHub is also supported.  
+
+With Docsify-This you can:
+* Display your Markdown files as standalone web pages, with no website setup or build process required
+* Visually style your standalone web pages using a point-and-click Web Page Builder
+* Share existing GitHub-hosted Markdown files as standalone web pages, with an optional 'Edit this Page' link
+* Seamlessly embed constraint-free Markdown/HTML, which you have authored, into other platforms (e.g. LMS or CMS)
+* Reuse existing Markdown content by seamlessly embedding it within other platforms (e.g. LMS or CMS)
+* Utilize the supported URL parameters when embedding content to match each destination platform better visually
 
 Want to get more frequent updates about my current projects and work? You can find me on Mastodon at [https://mastodon.social/@hibbittsdesign](https://mastodon.social/@hibbittsdesign).
