@@ -17,7 +17,8 @@ metadata:
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Docsify-This v1.0 Released
     'twitter:description' : "The first official release my new project to help people use Docsify even easier and faster."
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2022-09-01-docsify-this-v1-released/screenshot.png'
+    'twitter:image' : 'http://hibbittsdesign.org/blog/posts/2022-09-01-docsify-this-v1-released/screenshot.png'
+    
 ---
 
 🎉Version 1.0 Released🎉  
