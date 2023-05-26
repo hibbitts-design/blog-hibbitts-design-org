@@ -17,12 +17,12 @@ metadata:
     'og:description' : "Proposal to the 2023 Open Education Conference."
     'og:type' : Post
     'og:url' : http://hibbittsdesign.org/blog/posts/2023-05-26-using -docsify-this-for-publishing-sharing-and-reusing-markdown-based-open-content
-    'og:image': 'http://hibbittsdesign.org/blog/posts/2023-05-26-using -docsify-this-for-publishing-sharing-and-reusing-markdown-based-open-content/screenshot-1.png'
+    'og:image': 'http://hibbittsdesign.org/blog/posts/2023-05-26-using-docsify-this-for-publishing-sharing-and-reusing-markdown-based-open-content/screenshot-1.png'
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
     'twitter:title' : Using Docsify-This for Publishing, Sharing and Reusing Markdown-based Open Content
     'twitter:description' : "Proposal to the 2023 Open Education Conference."
-    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2023-05-26-using -docsify-this-for-publishing-sharing-and-reusing-markdown-based-open-content/screenshot-1.png'
+    'twitter:image': 'http://hibbittsdesign.org/blog/posts/2023-05-26-using-docsify-this-for-publishing-sharing-and-reusing-markdown-based-open-content/screenshot-1.png'
 ---
 
 Rejected proposal to the 2023 Open Education Conference.
