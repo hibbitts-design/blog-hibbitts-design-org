@@ -39,4 +39,6 @@ With Docsify-This you can instantly turn any publicly available Markdown file in
 * Know how to change the visual appearance of Docsify-This web rendered pages
 * Know various methods to share and reuse Docsify-This rendered content
 
+Want to get more frequent updates about my current projects and work? You can find me on Mastodon at [https://mastodon.social/@hibbittsdesign](https://mastodon.social/@hibbittsdesign).
+
 ===
