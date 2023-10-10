@@ -1,5 +1,5 @@
 ---
-title: "Vist Me on Mastodon for Updates on my Open Source Efforts"
+title: "Visit Me on Mastodon for Updates on My Open Source Efforts"
 date: 10/10/2023
 published: true
 continue_link: false
@@ -10,14 +10,14 @@ taxonomy:
       - Open
       - Announcement
 metadata:
-    'og:title' : Vist Me on Mastodon for Updates on my Open Source Efforts
+    'og:title' : Visit Me on Mastodon for Updates on My Open Source Efforts
     'og:description' : "Update on my further use of Mastodon."
     'og:type' : Post
     'og:url' : http://hibbittsdesign.org/blog/posts/2023-05-26-using -docsify-this-for-publishing-sharing-and-reusing-markdown-based-open-content
     'og:image': 'http://hibbittsdesign.org/blog/posts/2023-10-10-visit-me-on-mastodon-for-updates-on-my-open-source-efforts/screenshot-1.png'
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Vist Me on Mastodon for Updates on my Open Source Efforts
+    'twitter:title' : Visit Me on Mastodon for Updates on My Open Source Efforts
     'twitter:description' : "Update on my further use of Mastodon."
     'twitter:image': 'http://hibbittsdesign.org/blog/posts/2023-10-10-visit-me-on-mastodon-for-updates-on-my-open-source-efforts/screenshot-1.png'
 ---
